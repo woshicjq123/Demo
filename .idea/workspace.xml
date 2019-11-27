@@ -1,0 +1,1159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85994204-3513-4296-9a5f-67a5c378c5c8" name="Default Changelist" comment="demo19记录的是leetcode的题目">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/CheckLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/DeleteNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Demo19Replicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Ex1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Ex2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/FindK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/FindMidNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Java81.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc100_isSameTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc108.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc110.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc112.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc118.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc119.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc121.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc141.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc160.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc167.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc169.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc189.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc198.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc203.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc206.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc234.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc235.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc237.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc242.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc257.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc28.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc345.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc35.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc387.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc392.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc404.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc415.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc434.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc437.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc443.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc58.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc59.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc62.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc63.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc64.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc67.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc746.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc83.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc84.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc85.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc876.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc896.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Lc989.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Linknode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/MyHashMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/PrintListReverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/ReverseLinklist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo19/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeleteNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo19Replicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindMidNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc100_isSameTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc1021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc119.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc1221.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc189.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc235.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc237.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc242.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc257.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc345.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc387.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc392.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc415.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc434.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc437.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc443.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc746.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc85.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc876.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc896.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lc989.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linknode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintListReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseLinklist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lc84.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1026">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lc242.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lc59.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lc1021.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MergeSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lc1221.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lc896.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100818">
+              <caret line="3807" column="5" selection-start-line="3807" selection-start-column="5" selection-end-line="3807" selection-end-column="5" />
+              <folding>
+                <element signature="e#177013#177014#0" expanded="true" />
+                <element signature="e#177054#177055#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Lc110.java" />
+        <option value="$PROJECT_DIR$/src/Lc235.java" />
+        <option value="$PROJECT_DIR$/src/Lc257.java" />
+        <option value="$PROJECT_DIR$/src/HashMap.java" />
+        <option value="$PROJECT_DIR$/src/MyHashMap.java" />
+        <option value="$PROJECT_DIR$/src/Lc404.java" />
+        <option value="$PROJECT_DIR$/src/Lc437.java" />
+        <option value="$PROJECT_DIR$/src/Lc198.java" />
+        <option value="$PROJECT_DIR$/src/Lc112.java" />
+        <option value="$PROJECT_DIR$/src/Lc392.java" />
+        <option value="$PROJECT_DIR$/src/Lc67.java" />
+        <option value="$PROJECT_DIR$/src/Lc746.java" />
+        <option value="$PROJECT_DIR$/src/Lc989.java" />
+        <option value="$PROJECT_DIR$/src/Lc58.java" />
+        <option value="$PROJECT_DIR$/src/Lc8.java" />
+        <option value="$PROJECT_DIR$/src/Lc28.java" />
+        <option value="$PROJECT_DIR$/src/Lc118.java" />
+        <option value="$PROJECT_DIR$/src/Lc119.java" />
+        <option value="$PROJECT_DIR$/src/Lc167.java" />
+        <option value="$PROJECT_DIR$/src/Lc121.java" />
+        <option value="$PROJECT_DIR$/src/Lc169.java" />
+        <option value="$PROJECT_DIR$/src/Lc189.java" />
+        <option value="$PROJECT_DIR$/src/Lc62.java" />
+        <option value="$PROJECT_DIR$/src/Lc63.java" />
+        <option value="$PROJECT_DIR$/src/Employee.java" />
+        <option value="$PROJECT_DIR$/src/Node.java" />
+        <option value="$PROJECT_DIR$/src/Lc64.java" />
+        <option value="$PROJECT_DIR$/src/Linknode.java" />
+        <option value="$PROJECT_DIR$/src/Java81.java" />
+        <option value="$PROJECT_DIR$/src/FindK.java" />
+        <option value="$PROJECT_DIR$/src/PrintListReverse.java" />
+        <option value="$PROJECT_DIR$/src/ReverseLinklist.java" />
+        <option value="$PROJECT_DIR$/src/FindMidNode.java" />
+        <option value="$PROJECT_DIR$/src/CheckLoop.java" />
+        <option value="$PROJECT_DIR$/src/DeleteNode.java" />
+        <option value="$PROJECT_DIR$/src/Ex1.java" />
+        <option value="$PROJECT_DIR$/src/Ex2.java" />
+        <option value="$PROJECT_DIR$/src/Lc345.java" />
+        <option value="$PROJECT_DIR$/src/Lc387.java" />
+        <option value="$PROJECT_DIR$/src/Lc415.java" />
+        <option value="$PROJECT_DIR$/src/Lc434.java" />
+        <option value="$PROJECT_DIR$/src/Lc896.java" />
+        <option value="$PROJECT_DIR$/src/Lc443.java" />
+        <option value="$PROJECT_DIR$/src/Lc85.java" />
+        <option value="$PROJECT_DIR$/src/Lc84.java" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/Lc242.java" />
+        <option value="$PROJECT_DIR$/src/Lc59.java" />
+        <option value="$PROJECT_DIR$/src/Lc1221.java" />
+        <option value="$PROJECT_DIR$/src/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/Lc1021.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="489" />
+    <option name="y" value="102" />
+    <option name="width" value="1392" />
+    <option name="height" value="1077" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Demo19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo19" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Demo19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo19" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Demo19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo19" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Demo19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo19" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Lc59">
+    <configuration name="Lc242" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lc242" />
+      <module name="Demo19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lc415" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lc415" />
+      <module name="Demo19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lc434" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lc434" />
+      <module name="Demo19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lc59" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lc59" />
+      <module name="Demo19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lc84" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lc84" />
+      <module name="Demo19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Lc415" />
+      <item itemvalue="Application.Lc434" />
+      <item itemvalue="Application.Lc84" />
+      <item itemvalue="Application.Lc242" />
+      <item itemvalue="Application.Lc59" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lc59" />
+        <item itemvalue="Application.Lc242" />
+        <item itemvalue="Application.Lc84" />
+        <item itemvalue="Application.Lc434" />
+        <item itemvalue="Application.Lc415" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85994204-3513-4296-9a5f-67a5c378c5c8" name="Default Changelist" comment="" />
+      <created>1571359577890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571359577890</updated>
+      <workItem from="1571359580925" duration="3856000" />
+      <workItem from="1571632635215" duration="2650000" />
+      <workItem from="1571833146577" duration="6154000" />
+      <workItem from="1571875036678" duration="6979000" />
+      <workItem from="1571960878350" duration="20879000" />
+      <workItem from="1572090343691" duration="4863000" />
+      <workItem from="1572173757493" duration="1910000" />
+      <workItem from="1572240643367" duration="18998000" />
+      <workItem from="1572315407327" duration="2886000" />
+      <workItem from="1572394820645" duration="16614000" />
+      <workItem from="1572438595728" duration="4243000" />
+      <workItem from="1572481058932" duration="12352000" />
+      <workItem from="1572588198594" duration="8588000" />
+      <workItem from="1572854756577" duration="892000" />
+      <workItem from="1572915625674" duration="6362000" />
+      <workItem from="1572951187030" duration="4348000" />
+      <workItem from="1573000367850" duration="14337000" />
+      <workItem from="1573085872377" duration="795000" />
+      <workItem from="1573540194451" duration="6971000" />
+      <workItem from="1573605273896" duration="2294000" />
+      <workItem from="1573629557488" duration="4016000" />
+      <workItem from="1573687366036" duration="3558000" />
+      <workItem from="1573794635402" duration="1962000" />
+      <workItem from="1574038401252" duration="603000" />
+      <workItem from="1574391411016" duration="9000" />
+      <workItem from="1574859304946" duration="1355000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="158474000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19967663" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.12411348" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39539006" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.3250444" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25303152" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26595744" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39716312" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32624114" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="demo19记录的是leetcode的题目" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo19记录的是leetcode的题目" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc35.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc392.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc746.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc746.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc746.java</url>
+          <line>119</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc118.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc119.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc119.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc121.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc189.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc62.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc64.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc64.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc64.java</url>
+          <line>144</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FindK.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReverseLinklist.java</url>
+          <line>3</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex1.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc345.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc387.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc415.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc84.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc242.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lc59.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Lc392.java</url>
+          <line>19</line>
+          <properties class="Lc392" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Lc121.java</url>
+          <line>7</line>
+          <properties class="Lc121" method="maxProfit">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Lc64.java</url>
+          <line>7</line>
+          <properties class="Lc64" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Lc64.java</url>
+          <line>96</line>
+          <properties class="Lc64" method="firstUniqChar">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Demo19$Lc746.ic" NAME="Lc746 Coverage Results" MODIFIED="1572258288455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Lc404.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="45" column="5" selection-start-line="29" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc437.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc198.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc392.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc746.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#minCostClimbingStairs#0;class#Lc746#0" />
+            <element signature="method#canConstruct#0;class#Lc746#0" />
+            <element signature="method#canConstruct1#0;class#Lc746#0" />
+            <element signature="docComment;method#lengthOfLastWord#0;class#Lc746#0" />
+            <element signature="method#lengthOfLastWord#0;class#Lc746#0" />
+            <element signature="method#lengthOfLastWord1#0;class#Lc746#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc58.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc989.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1593">
+          <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc67.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc112.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc110.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="663" column="38" lean-forward="true" selection-start-line="663" selection-start-column="38" selection-end-line="663" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc118.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc119.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="35" column="20" selection-start-line="14" selection-start-column="7" selection-end-line="35" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc121.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc167.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc169.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc189.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="127" column="5" selection-start-line="127" selection-start-column="5" selection-end-line="127" selection-end-column="5" />
+          <folding>
+            <element signature="method#rotate#0;class#Lc189#0" />
+            <element signature="method#containsDuplicate#0;class#Lc189#0" />
+            <element signature="method#containsNearbyDuplicate#0;class#Lc189#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc62.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc63.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1053">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="188" column="46" selection-start-line="188" selection-start-column="46" selection-end-line="188" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#minPathSum#0;class#Lc64#0" />
+            <element signature="method#numDecodings#0;class#Lc64#0" />
+            <element signature="method#reverseString#0;class#Lc64#0" />
+            <element signature="method#firstUniqChar#0;class#Lc64#0" />
+            <element signature="method#getImportance#0;class#Lc64#0" />
+            <element signature="method#dfs#0;class#Lc64#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Linknode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java81.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReverseLinklist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrintListReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindMidNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CheckLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DeleteNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ex1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#solve#0;class#Ex1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ex2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc345.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc387.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc415.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc434.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="21" selection-start-line="9" selection-start-column="8" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc443.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc85.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc84.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc242.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc59.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc1221.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc896.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100818">
+          <caret line="3807" column="5" selection-start-line="3807" selection-start-column="5" selection-end-line="3807" selection-end-column="5" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lc1021.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
